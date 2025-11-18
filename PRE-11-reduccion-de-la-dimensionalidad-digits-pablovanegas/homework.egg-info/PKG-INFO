@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: homework
+Version: 0.1
+Requires-Dist: pytest
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: umap-learn
+Dynamic: requires-dist
